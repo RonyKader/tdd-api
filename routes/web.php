@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'Welcome to TDD API WITH LARAVEL';
+    return 'WELCOME TO TDD API WITH LARAVEL';
 });
